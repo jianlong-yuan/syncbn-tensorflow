@@ -1,6 +1,6 @@
 # syncbn-tensorflow
 
-Synchronized Multi-GPU Batch Normalization
+Syncronized Batch Normalization
 
 syncbn-tensorflow easy use
 
