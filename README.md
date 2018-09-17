@@ -5,7 +5,7 @@ Syncronized Batch Normalization
 syncbn-tensorflow easy use
 
 
-''' python
+```
 
 @add_arg_scope
 def sync_batch_norm(inputs,
@@ -126,4 +126,4 @@ def sync_batch_norm(inputs,
 
     return utils.collect_named_outputs(outputs_collections, sc.name, outputs)
     
-    '''
+```
