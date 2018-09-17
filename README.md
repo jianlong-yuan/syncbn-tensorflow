@@ -4,7 +4,7 @@ Syncronized Batch Normalization
 
 syncbn-tensorflow easy use
 
-## coming soon
+## Simple Code
 just add this code into "anaconda3/lib/python3.6/site-packages/tensorflow/contrib/layers/python/layers/layers"
 
 you can just change slim.batch_norm to slim.sync_batch_norm
